@@ -36,7 +36,7 @@ Once we had a clear picture of our main target persona and the decisions she fac
 
 We presented our idea in just under 5 minutes, while many other participating teams used 10 minutes or more to explain their great ideas. Ottawa had a very lively Call for Code session that day, and it was great to hear so many solutions for different disasters. Once the day was over, we continued with our normal work activities, not expecting too much from our efforts.
 
-<h4>Lets continue</h4>
+<h4>Let's continue</h4>
 
 Then, within the week after the event, we received a message from the Ottawa Lab's Call for Code organizing committee that our team's idea was chosen to receive further guidance to submit. This message made us think, what if we were able to submit our idea for the greater good? What if we could work together to create a solution for people confronted with drought? We went to the first mentoring session organized by Firas Kazem and others, and they told us why they liked our idea, that it was really focused on solving a big problem, with the human at the center of the solution. Our randomly formed team was starting to get excited. We only had one month left to submit our Call for Code idea, with a prototype, a technical architecture and a 3-minute video to explain the solution. We decided to make the idea real.
 
